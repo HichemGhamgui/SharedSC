@@ -40,6 +40,7 @@ public class Chatclient {
  
  
     public static void main(String[] args) {
+    	//hello
     	Scanner sc= new Scanner(System.in);
     	System.out.println("veuillez entrer le hostname");
         String hostname = sc.next();
